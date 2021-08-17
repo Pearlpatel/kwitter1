@@ -1,0 +1,13 @@
+#header{
+    font-family: 'Shadows Into Light', cursive;
+font-size: x-large;
+}
+
+body{
+    background-image: linear-gradient(to right top, #3ff5f3, #54eebc, #8be27b, #c1ce3c, #f6b011);
+    text-align: center;
+}
+#login_button{
+    background-image: linear-gradient(to right top, #eb58f2, #ff3c94, #ff8031, #e7c100, #72ee44);
+    font-size: large;
+}
